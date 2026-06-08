@@ -1,0 +1,11 @@
+track_name,artist,album,year,duration_ms,popularity,danceability,energy,loudness,genre
+Blinding Lights,The Weeknd,After Hours,2019,200040,95,0.514,0.730,-5.934,Pop
+Shape of You,Ed Sheeran,Divide,2017,233712,92,0.825,0.652,-3.183,Pop
+Believer,Imagine Dragons,Evolve,2017,204352,88,0.776,0.780,-4.374,Rock
+Senorita,Shawn Mendes,Camila Cabello,2019,190960,90,0.759,0.540,-6.039,Pop
+One Dance,Drake,Views,2016,173986,89,0.792,0.625,-5.839,HipHop
+Perfect,Ed Sheeran,Divide,2017,263400,91,0.599,0.448,-6.312,Pop
+Humble,Kendrick Lamar,DAMN,2017,177000,87,0.908,0.621,-6.638,HipHop
+Bad Guy,Billie Eilish,When We All Fall Asleep,2019,194088,90,0.701,0.425,-10.965,Pop
+Closer,The Chainsmokers,Collage,2016,244960,85,0.748,0.524,-5.599,EDM
+Levitating,Dua Lipa,Future Nostalgia,2020,203064,93,0.702,0.825,-3.787,Pop
